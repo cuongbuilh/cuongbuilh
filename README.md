@@ -2,7 +2,7 @@
 
 # Hi, I'm Cuong 👋
 
-### Senior Backend Engineer · Banking & Fintech · Java/Spring Boot
+### Backend Engineer · Banking & Fintech · Java/Spring Boot
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cuongbuilh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/cuongbuilh)
 [![Email](https://img.shields.io/badge/Email-cuongbuilh@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cuongbuilh@gmail.com)
@@ -119,7 +119,7 @@ while (alive) {
 
 <div align="center">
 
-**Open to Senior Backend / Lead Engineer opportunities in banking, fintech, or high-scale systems.**
+**Open to Backend Engineer opportunities in banking, fintech, or high-scale systems.**
 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cuongbuilh)
 
